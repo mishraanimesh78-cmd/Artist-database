@@ -2,7 +2,7 @@
 This project is a MySQL-based Music Store Database Management and Analysis System developed using multiple relational datasets such as Artist, Customer, Employee, Genre, Invoice, Track, Playlist, and InvoiceLine tables. The project demonstrates practical implementation of SQL concepts for managing, querying, and analyzing structured data in a real-world business scenario.
 The main objective of this project is to perform database operations and business analysis using MySQL queries ranging from basic to advanced levels. The project includes operations such as data retrieval, filtering, sorting, joins, grouping, aggregation, subqueries, views, stored procedures, indexing, and data manipulation commands.
 
-Through different analytical queries, the project generates meaningful insights such as:
+*Through different analytical queries, the project generates meaningful insights such as:-
 
 Customer spending patterns,
 
@@ -18,7 +18,8 @@ Playlist and track distribution.
 
 
 
-This project helps in understanding:
+
+*This project helps in understanding:-
 
 Relational Database Management Systems (RDBMS),
 
